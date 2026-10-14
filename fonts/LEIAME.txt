@@ -1,0 +1,7 @@
+Coloque aqui os arquivos da fonte Code Pro com estes nomes:
+
+CodePro-Light.woff2 (ou .otf / .ttf)
+CodePro-Regular.woff2 (ou .otf / .ttf)
+CodePro-Bold.woff2 (ou .otf / .ttf)
+
+O site (index.html) ja esta preparado para carregar esses arquivos. Enquanto eles nao estiverem aqui, o site usa uma fonte reserva.
